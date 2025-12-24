@@ -1,6 +1,7 @@
 # 👋 Hi there
 
- I define myself as a technology enthusiast willing to explore differents enviroments and disposse to learn and expand my knowledges in my profesional field.
+I define myself as a technology enthusiast willing to explore differents enviroments and disposse to learn and expand my knowledges in my profesional field.
+
 ---
 
 ## 🧠 About Me  
