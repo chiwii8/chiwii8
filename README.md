@@ -1,4 +1,4 @@
-# 👋 Hola me llamo Alejandro Sánchez Rodríguez y soy Ingeniero Informático
+# 👋 Hi there
 
  I define myself as a technology enthusiast willing to explore differents enviroments and disposse to learn and expand my knowledges in my profesional field.
 ---
