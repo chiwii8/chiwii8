@@ -1,5 +1,7 @@
 # 👋 Hi there
 
+- 🚀 Explore my [Portfolio](https://tu-usuario.github.io) with my featured projects.
+
 I define myself as a technology enthusiast willing to explore differents enviroments and disposse to learn and expand my knowledges in my profesional field.
 
 ---
